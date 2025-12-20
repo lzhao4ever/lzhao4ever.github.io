@@ -28,14 +28,7 @@ I am an AI architect working on multi-modal modeling.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html)
-
-Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng 
-</div>
-</div>
+- Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
 
 # 📖 Educations
 - *1996.08 - 2001.07*, PhD, Robotics, Carnegie Mellon University.
