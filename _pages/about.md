@@ -22,7 +22,7 @@ I am an AI architect working on multi-modal modeling.
 # 🔥 News
 - *2025.12*: Serving as area chair for ICLR 2026. 
 
-# 💻 Experience 
+# 💻 Experiences 
 - *2021.05 - 2024.10*, [Samsung Research America](https://samsung.com/), USA.
   
 
