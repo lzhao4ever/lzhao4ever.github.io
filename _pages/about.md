@@ -20,7 +20,7 @@ redirect_from:
 I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [published papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
 
 # 🔥 News
-- *2025.12*: Serving as area chair for ICLR 2026. 
+- *2025.12*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
 
 # 💻 Experiences 
 - *2021.05 - 2024.10*, [Samsung Research America](https://samsung.com/), USA.
@@ -42,5 +42,3 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *1993.09 - 1996.06*, MS, CS, Chinese Academy of Sciences.
 - *1986.09 - 1991.06*, BS, CS, Tsinghua University.
 
-# Links
-- [CMU homepage](https://ri.cmu.edu/~lzhao4ever)
