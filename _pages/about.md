@@ -29,6 +29,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
 
+- **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
+
 # Patents
 
 - **Liang Zhao**, Matthew G Berry, [Integrated systems and methods for video-based object modeling, recognition, and tracking](https://patentimages.storage.googleapis.com/b9/36/3a/f0dc9ea3c4517f/US8170280.pdf), US Patent 8,170,280, 2012.
@@ -42,3 +44,5 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *1993.09 - 1996.06*, MS, CS, Chinese Academy of Sciences.
 - *1986.09 - 1991.06*, BS, CS, Tsinghua University.
 
+# Links
+- [CMU Homepage](https://www.cs.cmu.edu/~lzhao/)
