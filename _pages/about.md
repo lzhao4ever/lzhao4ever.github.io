@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an AI architect working on multi-modal learning. Here are links to my work experiences(https://www.linkedin.com/in/liang-zhao-434b2664/), published papers(https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and code repositories(https://github.com/lzhao4ever).
+I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [published papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
 
 # 🔥 News
 - *2025.12*: Serving as area chair for ICLR 2026. 
@@ -25,10 +25,17 @@ I am an AI architect working on multi-modal learning. Here are links to my work 
 # 💻 Experiences 
 - *2021.05 - 2024.10*, [Samsung Research America](https://samsung.com/), USA.
   
-
 # 📝 Selected Work 
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
+
+# Patents
+
+- **Liang Zhao**, Matthew G Berry, [Integrated systems and methods for video-based object modeling, recognition, and tracking](https://patentimages.storage.googleapis.com/b9/36/3a/f0dc9ea3c4517f/US8170280.pdf), US Patent 8,170,280, 2012.
+
+# 🎖  Awards
+- *2023*, A1 Patent Award, SRA.
+- *2022*, Innovation Challenge, SRA.
 
 # 📖 Educations
 - *1996.08 - 2001.07*, PhD, Robotics, Carnegie Mellon University.
@@ -36,4 +43,4 @@ I am an AI architect working on multi-modal learning. Here are links to my work 
 - *1986.09 - 1991.06*, BS, CS, Tsinghua University.
 
 # Links
-- CMU homepage: https://ri.cmu.edu/~lzhao4ever
+- [CMU homepage](https://ri.cmu.edu/~lzhao4ever)
