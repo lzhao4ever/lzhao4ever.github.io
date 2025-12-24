@@ -42,9 +42,9 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2022*, Innovation Challenge, SRA.
 
 # 📖 Educations
-- *1996.08 - 2001.07*, PhD, Robotics, [Carnegie Mellon University](https://ri.cmu.edu).
-- *1993.09 - 1996.06*, MS, CS, [Chinese Academy of Sciences](https://ia.cas.cn/)
-- *1986.09 - 1991.06*, BS, CS, [Tsinghua University](https://www.cs.tsinghua.edu.cn/).
+- *1996.08 - 2001.07*, PhD, Robotics Institute, [Carnegie Mellon University](https://ri.cmu.edu).
+- *1993.09 - 1996.06*, MS, Institute of Automation, [Chinese Academy of Sciences](https://ia.cas.cn/)
+- *1986.09 - 1991.06*, BS, Department of Computer Science, [Tsinghua University](https://www.cs.tsinghua.edu.cn/).
 
 # Links
 - [CMU Homepage](https://www.cs.cmu.edu/~lzhao/)
