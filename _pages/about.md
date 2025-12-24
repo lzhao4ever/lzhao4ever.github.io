@@ -23,7 +23,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2025.12*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
 
 # 💻 Experiences 
-- *2021.05 - 2024.10*, [Samsung Research America](https://samsung.com/), USA.
+- *2021.05 - 2024.10*, [Samsung Research America](https://sra.samsung.com/), USA.
   
 # 📝 Selected Work 
 
@@ -38,8 +38,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - **Liang Zhao**, Matthew G Berry, [Integrated systems and methods for video-based object modeling, recognition, and tracking](https://patentimages.storage.googleapis.com/b9/36/3a/f0dc9ea3c4517f/US8170280.pdf), US Patent 8,170,280, 2012.
 
 # 🎖  Awards
-- *2023*, A1 Patent Award, SRA.
-- *2022*, Innovation Challenge, SRA.
+- *2023*, A1 Patent Award, [SRA](https://sra.samsung.com/).
+- *2022*, Innovation Challenge, [SRA](https://sra.samsung.com/).
 
 # 📖 Educations
 - *1996.08 - 2001.07*, PhD, Robotics Institute, [Carnegie Mellon University](https://ri.cmu.edu).
