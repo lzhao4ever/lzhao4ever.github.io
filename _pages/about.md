@@ -24,6 +24,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 # 💻 Experiences 
 - *2021.05 - 2024.10*, [Samsung Research America](https://sra.samsung.com/), USA.
+- *2016.05 - 2020.01*, [Baidu Research](https://research.baidu.com/), USA.
   
 # 📝 Selected Work 
 
