@@ -26,8 +26,11 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2021 - 2024*, [Samsung Research America](https://sra.samsung.com/), USA.
 - *2016 - 2020*, [Baidu Research](https://research.baidu.com/), USA.
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
+- *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
   
 # 📝 Selected Work 
+- Yuanpeng Li, J. Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://cpal.cc/), CPAL, 2024.
+
 - Yuanpeng Li, **Liang Zhao**, Kenneth Church, Mohamed Elhoseiny, [Compositional Language Continual Learning](https://openreview.net/forum?id=rklnDgHtDS), ICLR 2020.
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
