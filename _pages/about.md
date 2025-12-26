@@ -29,7 +29,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
   
 # 📝 Selected Work 
-- Yuanpeng Li, J. Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://cpal.cc/), CPAL, 2024.
+- Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
 
 - Yuanpeng Li, **Liang Zhao**, Kenneth Church, Mohamed Elhoseiny, [Compositional Language Continual Learning](https://openreview.net/forum?id=rklnDgHtDS), ICLR 2020.
 
