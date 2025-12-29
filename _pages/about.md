@@ -27,11 +27,14 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2016 - 2020*, [Baidu Research](https://research.baidu.com/), USA.
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
 - *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
+- *2010 - 2012*, [Indiana University](https://optometry.iu.edu/), USA.
   
 # 📝 Selected Work 
 - Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
 
 - Yuanpeng Li, **Liang Zhao**, Kenneth Church, Mohamed Elhoseiny, [Compositional Language Continual Learning](https://openreview.net/forum?id=rklnDgHtDS), ICLR 2020.
+
+- Yuanpeng Li, **Liang Zhao**, Jianyu Wang, Joel Hestness, [Compositional Generalization for Primitive Substitutions](https://aclanthology.org/D19-1438/), EMNLP 2019.
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
 
