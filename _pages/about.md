@@ -28,6 +28,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
 - *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
 - *2010 - 2012*, [Indiana University](https://optometry.iu.edu/), USA.
+- *2007 - 2009*, Digitalsmiths, USA.
   
 # 📝 Selected Work 
 - Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
@@ -37,6 +38,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - Yuanpeng Li, **Liang Zhao**, Jianyu Wang, Joel Hestness, [Compositional Generalization for Primitive Substitutions](https://aclanthology.org/D19-1438/), EMNLP 2019.
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
+
+- Wang Yang, Yi Yang, Zhenheng Yang, **Liang Zhao**, Wei Xu, [Occlusion Aware Unsupervised Learning of Optical Flow](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf), CVPR 2018. 
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
 
