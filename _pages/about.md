@@ -1,20 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [published papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
@@ -29,6 +12,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
 - *2010 - 2012*, [Indiana University](https://optometry.iu.edu/), USA.
 - *2007 - 2009*, Digitalsmiths, USA.
+- *2005 - 2006*, Genex Technologies, USA.
   
 # 📝 Selected Work 
 - Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
@@ -40,6 +24,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
 
 - Wang Yang, Yi Yang, Zhenheng Yang, **Liang Zhao**, Wei Xu, [Occlusion Aware Unsupervised Learning of Optical Flow](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf), CVPR 2018. 
+
+- Zhenheng Yang, Peng Wang, Wei Xu, **Liang Zhao**, Ramakant Nevatia, [Unsupervised Learning of Geometry with Edge-Aware Depth-Normal Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/12257), AAAI 2018.
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
 
