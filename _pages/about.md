@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <span class='anchor' id='about-me'></span>
 
 I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [published papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
