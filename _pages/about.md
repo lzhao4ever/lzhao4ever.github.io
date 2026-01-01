@@ -23,7 +23,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2010 - 2012*, [Indiana University](https://optometry.iu.edu/), USA.
 - *2007 - 2009*, Digitalsmiths, USA.
 - *2005 - 2006*, Genex Technologies, USA.
-- *2001 - 2005*, University of Maryland, USA.
+- *2001 - 2005*, [University of Maryland](https://www.cs.umd.edu/), USA.
   
 # 📝 Selected Work 
 - Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
