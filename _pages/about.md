@@ -19,6 +19,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2021 - 2024*, [Samsung Research America](https://sra.samsung.com/), USA.
 - *2016 - 2020*, [Baidu Research](https://research.baidu.com/), USA.
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
+- *2013 - 2013*, Perceptimed, USA.
 - *2012 - 2013*, [Pearson KT](https://pearson.com/), USA.
 - *2010 - 2012*, [Indiana University](https://optometry.iu.edu/), USA.
 - *2007 - 2009*, Digitalsmiths, USA.
@@ -39,6 +40,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - Zhenheng Yang, Peng Wang, Wei Xu, **Liang Zhao**, Ramakant Nevatia, [Unsupervised Learning of Geometry with Edge-Aware Depth-Normal Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/12257), AAAI 2018.
 
 - **Liang Zhao**, et al, [Semi-Automatic OCT Segmentation of Nine Retinal Layers](https://iovs.arvojournals.org/article.aspx?articleid=2356727), ARVO 2012.
+
+- **Liang Zhao**, Larry S Davis, [Closely Coupled Object Detection and Segmentation](https://ieeexplore.ieee.org/abstract/document/1541290), ICCV 2005.
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
 
