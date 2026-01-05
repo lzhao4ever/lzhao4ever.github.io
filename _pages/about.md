@@ -27,7 +27,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - *2001 - 2005*, [University of Maryland](https://www.cs.umd.edu/), USA.
   
 # 📝 Selected Work 
-- Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL, 2024.
+- Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, **Liang Zhao**, Kenneth Church, [Efficiently Disentangle Causal Representations](https://proceedings.mlr.press/v234/li24a/li24a.pdf), CPAL 2024.
 
 - Yuanpeng Li, **Liang Zhao**, Kenneth Church, Mohamed Elhoseiny, [Compositional Language Continual Learning](https://openreview.net/forum?id=rklnDgHtDS), ICLR 2020.
 
@@ -42,6 +42,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - **Liang Zhao**, et al, [Semi-Automatic OCT Segmentation of Nine Retinal Layers](https://iovs.arvojournals.org/article.aspx?articleid=2356727), ARVO 2012.
 
 - **Liang Zhao**, Larry S Davis, [Closely Coupled Object Detection and Segmentation](https://ieeexplore.ieee.org/abstract/document/1541290), ICCV 2005.
+
+- **Liang Zhao**, Gopal Pingali, Ingrid Carlbom, [Real-Time Head Orientation Estimation Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/1038018), ICIP 2002.
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
 
