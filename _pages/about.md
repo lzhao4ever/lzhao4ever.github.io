@@ -49,6 +49,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 - **Liang Zhao**, Chuck Thorpe, [Stereo- and Neural Network-based Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/892151), IEEE Trans. on Intelligent Transportation Systems, Sep. 2000.
 
+- **Liang Zhao**, Chuck Thorpe, [Qualitative and Quantitative Car Tracking from a Range Image Sequence](https://ieeexplore.ieee.org/abstract/document/698651), CVPR 1998.
+
 # Patents
 
 - **Liang Zhao**, Matthew G Berry, [Integrated systems and methods for video-based object modeling, recognition, and tracking](https://patentimages.storage.googleapis.com/b9/36/3a/f0dc9ea3c4517f/US8170280.pdf), US Patent 8,170,280, 2012.
