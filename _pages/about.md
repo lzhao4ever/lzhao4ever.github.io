@@ -10,10 +10,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [published papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
+I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
 
 # 🔥 News
-- *2025.12*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
+- *2026.1*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
 
 # 💻 Experiences 
 - *2021 - 2024*, [Samsung Research America](https://sra.samsung.com/), USA.
@@ -46,6 +46,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 - **Liang Zhao**, Gopal Pingali, Ingrid Carlbom, [Real-Time Head Orientation Estimation Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/1038018), ICIP 2002.
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
+
+- **Liang Zhao**, Chuck Thorpe, [Recursive Context Reasoning for Human Detection and Part Identification](https://www.ri.cmu.edu/pub_files/pub2/zhao_liang_2000_1/zhao_liang_2000_1.pdf), CVPR Workshop 2000.
 
 - **Liang Zhao**, Chuck Thorpe, [Stereo- and Neural Network-based Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/892151), IEEE Trans. on Intelligent Transportation Systems, Sep. 2000.
 
