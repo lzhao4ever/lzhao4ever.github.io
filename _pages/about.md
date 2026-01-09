@@ -43,6 +43,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 - **Liang Zhao**, Larry S Davis, [Closely Coupled Object Detection and Segmentation](https://ieeexplore.ieee.org/abstract/document/1541290), ICCV 2005.
 
+- **Liang Zhao**, Larry S Davis, [Segmentation and Appearance Model Building from An Image Sequence](https://ieeexplore.ieee.org/abstract/document/1529752), ICIP 2005.
+
 - **Liang Zhao**, Larry S Davis, [Iterative Figure-Ground Discrimination](https://ieeexplore.ieee.org/abstract/document/1334006), ICPR 2004.
 
 - **Liang Zhao**, Gopal Pingali, Ingrid Carlbom, [Real-Time Head Orientation Estimation Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/1038018), ICIP 2002.
