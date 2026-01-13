@@ -47,6 +47,8 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 - **Liang Zhao**, Larry S Davis, [Iterative Figure-Ground Discrimination](https://ieeexplore.ieee.org/abstract/document/1334006), ICPR 2004.
 
+- Anurag Mittal, **Liang Zhao**, Larry S Davis, [Human Body Pose Estimation Using Silhouette Shape Analysis](https://ieeexplore.ieee.org/abstract/document/1217930), ICAVSBS 2003.
+
 - **Liang Zhao**, Gopal Pingali, Ingrid Carlbom, [Real-Time Head Orientation Estimation Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/1038018), ICIP 2002.
 
 - **Liang Zhao**, [Dressed Human Modeling, Detection, and Parts Localization](https://www.ri.cmu.edu/publications/dressed-human-modeling-detection-and-parts-localization/), PhD Thesis, CMU, 2001.
