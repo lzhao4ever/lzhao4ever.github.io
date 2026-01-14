@@ -35,7 +35,7 @@ I am an AI architect working on multi-modal learning. Here are links to my [work
 
 - Tianbing Xu, Qiang Liu, **Liang Zhao**, Jian Peng, [Learning to Explore via Meta Policy Gradient](https://proceedings.mlr.press/v80/xu18d.html), ICML 2018. 
 
-- Wang Yang, Yi Yang, Zhenheng Yang, **Liang Zhao**, Wei Xu, [Occlusion Aware Unsupervised Learning of Optical Flow](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf), CVPR 2018. 
+- Yang Wang, Yi Yang, Zhenheng Yang, **Liang Zhao**, Wei Xu, [Occlusion Aware Unsupervised Learning of Optical Flow](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf), CVPR 2018. 
 
 - Zhenheng Yang, Peng Wang, Wei Xu, **Liang Zhao**, Ramakant Nevatia, [Unsupervised Learning of Geometry with Edge-Aware Depth-Normal Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/12257), AAAI 2018.
 
