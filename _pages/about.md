@@ -18,7 +18,7 @@ I am a deep learning engineer working on perception for autonomous driving. Here
 
 # 💻 Experiences
 - *2026 - present*, [Imagry](https://imagry.co/), USA.
-- *2025 - 2026*, [Mu Tech], USA. 
+- *2025 - 2026*, Mu Tech, USA. 
 - *2021 - 2024*, [Samsung Research America](https://sra.samsung.com/), USA.
 - *2016 - 2020*, [Baidu Research](https://research.baidu.com/), USA.
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
