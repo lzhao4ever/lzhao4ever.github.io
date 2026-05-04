@@ -10,13 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an AI architect working on multi-modal learning. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
+I am a deep learning engineer working on perception for autonomous driving. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
 
 # 🔥 News
 - *2026.3*: Invited to serve as area chair for [NeurIPS 2026](https://neurips.cc/).
 - *2026.1*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
 
-# 💻 Experiences 
+# 💻 Experiences
+- *2026 - present*, [Imagry](https://imagry.co/), USA.
+- *2025 - 2026*, [Mu Tech], USA. 
 - *2021 - 2024*, [Samsung Research America](https://sra.samsung.com/), USA.
 - *2016 - 2020*, [Baidu Research](https://research.baidu.com/), USA.
 - *2013 - 2014*, [Intel](https://intel.com/), USA.
