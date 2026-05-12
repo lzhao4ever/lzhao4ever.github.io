@@ -13,8 +13,8 @@ redirect_from:
 I am a deep learning engineer working on perception for autonomous driving. Here are links to my [work experiences](https://www.linkedin.com/in/liang-zhao-434b2664/), [papers](https://scholar.google.com/citations?user=9xMR_iQAAAAJ), and [code repositories](https://github.com/lzhao4ever).
 
 # 🔥 News
-- *2026.3*: Invited to serve as area chair for [NeurIPS 2026](https://neurips.cc/).
-- *2026.1*: Serving as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
+- *2026.5 - *: Serving as area chair for [NeurIPS 2026](https://neurips.cc/).
+- *2025.10 - 2026.4*: Served as area chair for [ICLR 2026](https://iclr.cc/Conferences/2026). 
 
 # 💻 Experiences
 - *2026 - present*, [Imagry](https://imagry.co/), USA.
